@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @delassal
 - 👀 I’m interested in coding (obviously 😜)
-- 🌱 I’m currently learning vue.js
+- 🌱 I’m currently writing my master thesis
 - 📫 How to reach me via my website https://daniel-elassal.de
 
 <!---
