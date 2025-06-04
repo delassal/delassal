@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @delassal
 - 👀 I’m interested in coding (obviously 😜)
 - 🌱 I’m currently writing my master thesis
-- 📫 How to reach me via my website https://daniel-elassal.de
-- 🌏 Hot to reach my new website (soon): https://danielelassal.com
+- 🌏 How to reach me via my website [danielelassal.com](https://danielelassal.com/?ref=github)
 
 <!---
 delassal/delassal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
